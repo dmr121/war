@@ -23,7 +23,7 @@ After creating your executable, you can simply run it with:
 
 To get a more detailed description of what's going on in the game, run it with the *-v* argument
 
-    ./war -v
+    $ ./war -v
 
 
 NOTE: I compiled and ran my program on a MacBook. This has not been tested
